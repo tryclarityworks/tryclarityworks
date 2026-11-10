@@ -17,7 +17,7 @@ The workflow demos are synthetic adaptations of existing Clarity Works tooling, 
 ## More project context
 
 - [Client follow-up pilot](https://www.vatsaljain.com/work/intent-signals/): newsletter/form signals, contact records, contextual alerts and human-reviewed drafts. Live client pilot; anonymized case study.
-- [Outbound engine](https://www.vatsaljain.com/work/outbound-engine/): seven-stage Python workflow used in my own operation, with user-reported output of 300 personalized messages/day. The public demo is not a throughput benchmark.
+- [Outbound engine](https://www.vatsaljain.com/work/outbound-engine/): seven-stage Python workflow used in my own operation, with self-reported output of 300 personalized messages/day. The public demo is not a throughput benchmark.
 - [Infnty](https://www.vatsaljain.com/work/infnty/): co-developer; designed the backend and delivery flow for a personalized newsletter. Under development; shared implementation remains private.
 
 I use Python, SQL, APIs, and AI-assisted development with Claude Code and Codex. I’m continuing to develop my TypeScript skills.
